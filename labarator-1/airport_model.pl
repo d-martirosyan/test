@@ -1,3 +1,5 @@
+:- dynamic condition/1.
+
 % Պայմաններ
 condition(ticket_checked).
 condition(passport_checked).
